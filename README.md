@@ -1,5 +1,16 @@
-telegram mesage fetcher v3.py  - added timedelt to keep running and check for any new message
-latestmessage fetcher v2.py -  with async and no need to delete the session file
-telegram_latest_message fetcher.py - to fetch the latest message from telegram
-wateramrk_it.py -- python script to wantermark images with foresiet logo to share intel
-pixelate_sensitive_data.py - This script creates a spaced-out pattern mask based on the specified pattern_size and applies that mask to pixate the sensitive areas while keeping a more sparse pattern
+## Files and Descriptions
+
+1. **telegram_message_fetcher_v3.py**
+   - Added timedelta to keep running and check for any new messages.
+
+2. **latest_message_fetcher_v2.py**
+   - Uses async and does not require deleting the session file.
+
+3. **telegram_latest_message_fetcher.py**
+   - Fetches the latest message from Telegram.
+
+4. **watermark_it.py**
+   - Python script to watermark images with a foresiet logo for sharing intelligence.
+
+5. **pixelate_sensitive_data.py**
+   - Creates a spaced-out pattern mask based on the specified size and applies it to pixelate sensitive areas while keeping a sparse pattern.
