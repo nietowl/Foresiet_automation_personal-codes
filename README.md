@@ -14,3 +14,6 @@
 
 5. **pixelate_sensitive_data.py**
    - Creates a spaced-out pattern mask based on the specified size and applies it to pixelate sensitive areas while keeping a sparse pattern.
+     
+6. **watermark_and_pixelate_it.py**
+   - Added watermarking and hiding data / pixelate it so that no crucial info get leaked
